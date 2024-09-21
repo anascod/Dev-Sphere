@@ -72,7 +72,7 @@ body {
 .hero_area {
   height: 100vh;
   background-color: #b5caee;
-  background-image: url(../images/hero-bg.png);
+  background-image: url(../images/b.gif);
   background-size: cover; /* Ensures the image covers the entire container */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents the image from repeating */}
